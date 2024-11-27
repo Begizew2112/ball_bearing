@@ -1,1 +1,0 @@
-C:\Users\Yibabe\Desktop\ball_bearing
