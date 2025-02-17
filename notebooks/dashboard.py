@@ -87,3 +87,4 @@ if uploaded_file is not None:
 
     st.write("### Summary")
     st.write(f"The predictions indicate that the remaining useful life (RUL) of the bearings ranges from approximately **{min_rul:.2f}** to **{max_rul:.2f}** units, with an average of **{avg_rul:.2f}** units.")
+import numpy as np 
